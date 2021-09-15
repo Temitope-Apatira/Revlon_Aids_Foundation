@@ -1,0 +1,81 @@
+/* div{
+    border: 2px solid green;
+} */
+body{
+    background-color: snow;
+}
+#revlon{
+    font-family:century gothic;
+    font-size:50px;
+    margin:0px
+}
+
+#a{
+    font-family:century gothic;
+    font-size:50px;
+    color:red;
+}
+
+a{
+    font-size:20px;
+    color:snow;
+    text-decoration:none
+}
+
+a :hover{
+background-color: snow;
+color: black;
+}
+
+.nav{
+    background-color: black;
+    color: white;
+}
+
+#hivh1{
+    color:red;
+    font-size:60px;
+    font-family:"century-gothic";
+    margin:1px;
+}
+
+#hivp{
+    color:#1a1a1a;
+    font-size:20px;
+    font-family:"century gothic";
+    margin:1px'
+}
+
+.firstfact{
+    height:250px;
+    background-color:blue;
+    border:4px solid snow;
+}
+
+.secondfact{
+    height:250px;
+    background-color:green;
+    border:4px solid snow;
+}
+
+.thirdfact{
+    height:250px;
+    background-color:orange;
+    border:4px solid snow;
+}
+
+.fourthfact{
+    height:250px;
+    background-color:burlywood;
+    border:4px solid snow;
+}
+
+.whatwe{
+    font-size:20px;
+    color:snow;
+}
+
+.fab{
+    height: 30px;
+    width: 30px;
+}
